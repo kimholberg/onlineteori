@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="140" height="100%" viewBox="0 0 320 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1.30986,0,167.752)">
+        <path d="M320,-115.586C320,-122.475 312.674,-128.068 303.65,-128.068L15.954,-128.068C7.149,-128.068 0,-122.611 0,-115.888L0,-57.336C0,-50.447 7.326,-44.854 16.35,-44.854L303.65,-44.854C312.674,-44.854 320,-50.447 320,-57.336L320,-115.586Z" style="fill:rgb(41,29,83);"/>
+        <clipPath id="_clip1">
+            <path d="M320,-115.586C320,-122.475 312.674,-128.068 303.65,-128.068L15.954,-128.068C7.149,-128.068 0,-122.611 0,-115.888L0,-57.336C0,-50.447 7.326,-44.854 16.35,-44.854L303.65,-44.854C312.674,-44.854 320,-50.447 320,-57.336L320,-115.586Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1,0,0,0.763439,-2.2793,-116.937)">
+                <g transform="matrix(40,0,0,40,302.299,65.1484)">
+                </g>
+                <text x="29.896px" y="65.148px" style="font-family:'TrebuchetMS-Bold', 'Trebuchet MS', sans-serif;font-weight:700;font-size:40px;fill:white;">Onlineteori.dk</text>
+            </g>
+        </g>
+    </g>
+</svg>
