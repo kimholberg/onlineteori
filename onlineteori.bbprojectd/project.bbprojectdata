@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>E04A5428-3122-491C-8F11-7D8C4968DBD8</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>E04A5428-3122-491C-8F11-7D8C4968DBD8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/ACAAAAAAQQMAAAAPl3Ck9T9oNy2rxRjgh3yG/h
+				w8gTk973RB7nE4C/aBRA7AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAASAAAAAQEAAGtpbWhvbGJlcmdh
+				bmRlcnNlbgAACQAAAAEBAABEb2N1bWVudHMAAAAGAAAA
+				AQEAAEdpdEh1YgAACwAAAAEBAABvbmxpbmV0ZW9yaQAU
+				AAAAAQYAABAAAAAgAAAAPAAAAFAAAABgAAAACAAAAAQD
+				AACxOAAAAAAAAAgAAAAEAwAAuNMDAAAAAAAIAAAABAMA
+				AK86BAAAAAAACAAAAAQDAAD+9vgOAAAAAAgAAAAEAwAA
+				//b4DgAAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBxli8llhgXBgAAAABAgAAAgAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAACHETkAAAAI
+				AAAAAAQAAEHGgh1lgAAAJAAAAAEBAABENDkwMDIwOC05
+				MDQ0LTQ1NjMtOUMzNy04QkU4MTI2QjkyMEUYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAE
+				EAAAdAAAAAAAAAAFEAAA4AAAAAAAAAAQEAAADAEAAAAA
+				AABAEAAA/AAAAAAAAAACIAAA2AEAAAAAAAAFIAAASAEA
+				AAAAAAAQIAAAWAEAAAAAAAARIAAAjAEAAAAAAAASIAAA
+				bAEAAAAAAAATIAAAfAEAAAAAAAAgIAAAuAEAAAAAAAAw
+				IAAA5AEAAAAAAAABwAAALAEAAAAAAAARwAAAIAAAAAAA
+				AAASwAAAPAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/kimholbergandersen/Documents/GitHub/onlineteori/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>onlineteori</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
